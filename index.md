@@ -6,6 +6,9 @@ for example when using in docker, I can't display html, I can try to display the
 
     gocover-cui -cui c.out
 
+## Before use
+**Terminal theme or bash color will affect the final `gocover-cui` display color**
+
 ## Install
 #### go get
 ``` bash
